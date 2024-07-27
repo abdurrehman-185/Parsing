@@ -1,0 +1,8 @@
+../Core/Src/main.c:27:6:print_param	64	static
+../Core/Src/main.c:70:5:main	16	static
+../Core/Src/main.c:136:17:Calculate_Period	24	static
+../Core/Src/main.c:142:6:SystemClock_Config	104	static
+../Core/Src/main.c:177:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:202:13:MX_LPUART1_UART_Init	8	static
+../Core/Src/main.c:223:13:MX_TIM4_Init	56	static
+../Core/Src/main.c:255:6:Error_Handler	4	static
